@@ -1,0 +1,11 @@
+* TARGET WEIGHT SET TO 15 KG *
+Read in 40 unique items each less than the target weight.
+
+ITEM           ITEMWEIGHT ITEMVALUE
+-------------- ---------- ----------
+X28                     5        386
+X29                     5        382
+X19                     5        381
+               ---------- ----------
+                       15       1149
+               ========== ==========
